@@ -1,2 +1,5 @@
 # Iris-flower-data-set-KMeans-clustering-
-Application of PCA and K-means algorithm to the Iris flower data set 
+
+The following project deals with unsupervised learning through k-means clustering. K-means algorithm is applied to the Iris flower data set (https://en.wikipedia.org/wiki/Iris_flower_data_set) 
+
+NumPY, Pandas, MatplotLib, Seaborn, scikit-learn libraries are applied.
